@@ -57,31 +57,3 @@ table {
   padding-top:20%;
   padding-left:5%;
 }
-
-.paddingEarth {
-  padding-top:5%;
-}
-
-/* .title-block {
-  display: flex;
-}
-
-.title-block .inner {
-  flex: 1;
-  padding-left: 1em;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-}
-
-.new-vr-guy {
-  background-image: url(../img/newVRGuy.svg);
-  background-repeat: no-repeat;
-  background-position: bottom right;
-  height: 0;
-  padding-bottom: 75%;
-}
-
-.column.fill-parent {
-  height: 100%;
-} */
