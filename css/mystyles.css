@@ -3,6 +3,10 @@ h2 {
   text-decoration-color: #ffdd57;
 }
 
+.yellow {
+  color: #ffdd57;
+}
+
 .about {
   background-color: white;
 }
@@ -38,6 +42,11 @@ table {
   width: 100%;
 }
 
+#aboutImage {
+  height: 80%;
+  width:80%;
+}
+
 .footnote {
   padding-bottom: 2.5%;
 }
@@ -55,5 +64,9 @@ table {
 }
 .padderEvent {
   padding-top:20%;
+  padding-left:5%;
+}
+.padderAbout {
+  padding-top: 5%;
   padding-left:5%;
 }
