@@ -1,3 +1,7 @@
+body {
+  font-family: avenir next, helvetica, sans-serif;
+}
+
 h2 {
   text-decoration: underline;
   text-decoration-color: #ffdd57;
@@ -60,7 +64,7 @@ table {
 }
 
 .padderRegister {
-  padding-top:45%;
+  padding-top:15%;
 }
 .padderEvent {
   padding-top:20%;
